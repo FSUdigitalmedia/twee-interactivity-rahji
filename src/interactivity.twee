@@ -1,0 +1,25 @@
+:: StoryData
+{
+  "ifid": "34129E2C-F5DF-4934-8E46-1E03389AC5A9",
+  "format": "SugarCube",
+  "format-version": "2.33.4"
+}
+
+:: StoryTitle
+Nightmare at McDoogle's Restaurant
+
+:: Start
+You find yourself at McDoogle's Restaurant at 2am. You don't know how you got here. It's the fifth time this week.
+
+[[Walk up to the counter]]
+[[Grab a seat]]
+[[Go to the bathroom]]
+[[Leave the restaurant]]
+
+:: Walk up to the counter
+
+:: Grab a seat
+
+:: Go to the bathroom
+
+:: Leave the restaurant
